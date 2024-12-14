@@ -4,6 +4,11 @@
 
 💼 Co-founder of company called Prezz.cz
 
+🔭 Intern in Pardubice Space Observatory
+
+🌍 Ex-intern in education institute Sféra Pardubice
+
+
 🌱 What interests me?
 
 	🖥️ Programming and Application Development: I focus on languages like Java, JavaScript, HTML/CSS, PHP, SQL, and I’m learning Swift and React.
