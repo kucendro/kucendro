@@ -17,6 +17,7 @@
 	🔧 I manage a home Linux server and am gradually learning system administration.
 	🎵 I experiment with music – electric guitar, keyboard, and harmonica.
  💬 Want to connect?
+ 
  📫 Reach me at: [kucera.seo@prezz.cz]
  🌐 Follow me on other Instragram: [https://www.instagram.com/kucendr.o/]
 
