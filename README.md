@@ -24,5 +24,5 @@
  💬 Want to connect?
  
  📫 Reach me at: [kucera.seo@prezz.cz]
- 🌐 Follow me on other Instragram: [https://www.instagram.com/kucendr.o/]
+ 🌐 Follow me on Instragram: [https://www.instagram.com/kucendr.o/]
 
