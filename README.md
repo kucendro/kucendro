@@ -23,6 +23,6 @@
 	🎵 I experiment with music – electric guitar, keyboard, and harmonica.
  💬 Want to connect?
  
- 📫 Reach me at: [kucera.seo@prezz.cz]
+ 📫 Reach me at: [kucera.seo@prezz.cz] [ondrej@kucendro.eu]
  🌐 Follow me on [Instragram](https://www.instagram.com/kucendr.o/)
 
