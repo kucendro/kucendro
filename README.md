@@ -29,5 +29,5 @@
  💬 Want to connect?
  
  📫 Reach me at: kucera.seo@prezz.cz ondrej@kucendro.eu
- 🌐 Follow me on [Instragram](https://www.instagram.com/kucendr.o/)
+ 🌐 Follow me on [Instragram](https://www.instagram.com/kucendr.o/) & [Bluesky 🦋](https://bsky.app/profile/kucendro.bsky.social)
 
