@@ -28,6 +28,6 @@
  
  💬 Want to connect?
  
- 📫 Reach me at: [kucera.seo@prezz.cz] [ondrej@kucendro.eu]
+ 📫 Reach me at: kucera.seo@prezz.cz ondrej@kucendro.eu
  🌐 Follow me on [Instragram](https://www.instagram.com/kucendr.o/)
 
