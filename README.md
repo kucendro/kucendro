@@ -4,9 +4,13 @@
 
 💼 Co-founder of company called Prezz.cz
 
+👨🏻‍💻 Intern in software development company [deep vision](https://www.deepvision.cz)
+
 🔭 Intern in Pardubice Space Observatory
 
 🌍 Ex-intern in education institute Sféra Pardubice
+
+🕺 Dancer - standard, latino (yeah really)
 
 
 🌱 What interests me?
@@ -21,6 +25,7 @@
 	🛠️ I work on personal projects involving 3D printing and microcomputers.
 	🔧 I manage a home Linux server and am gradually learning system administration.
 	🎵 I experiment with music – electric guitar, keyboard, and harmonica.
+ 
  💬 Want to connect?
  
  📫 Reach me at: [kucera.seo@prezz.cz] [ondrej@kucendro.eu]
