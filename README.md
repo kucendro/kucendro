@@ -4,7 +4,7 @@
 
 💼 Co-founder of company called Prezz.cz
 
-👨🏻‍💻 Intern in software development company [deep vision](https://www.deepvision.cz)
+👨🏻‍💻 LLM Prompt Engineer in software development company [deep vision](https://www.deepvision.cz)
 
 🔭 Intern in Pardubice Space Observatory
 
