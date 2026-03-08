@@ -1,6 +1,6 @@
 [
     {
-        "type": "create-3d-contrib",
+        "type": "normal",
         "fileName": "day.svg",
         "backgroundColor": "#ffffff",
         "foregroundColor": "#00000f",
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "type": "create-3d-contrib",
+        "type": "rainbow",
         "fileName": "night.svg",
         "backgroundColor": "#00000f",
         "foregroundColor": "#eeeeff",
