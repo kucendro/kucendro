@@ -1,6 +1,6 @@
 [
     {
-        "type": "radar_contrib_only",
+        "type": "create-3d-contrib",
         "fileName": "day.svg",
         "backgroundColor": "#ffffff",
         "foregroundColor": "#00000f",
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "type": "radar_contrib_only",
+        "type": "create-3d-contrib",
         "fileName": "night.svg",
         "backgroundColor": "#00000f",
         "foregroundColor": "#eeeeff",
